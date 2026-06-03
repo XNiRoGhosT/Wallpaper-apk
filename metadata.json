@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Anime Wallpapers \u0026 Animations",
+  "description": "A dark-themed anime wallpaper app featuring stunning anime grids, live animation video players, downloading, and setting options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
